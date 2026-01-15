@@ -1,29 +1,114 @@
-🚀 I'm a Computer Science student passionate about building intelligent systems and automation agents.  
-💼 Currently: Research Intern at Hochschule Zittau/Görlitz, Germany  
-🎯 Mission: To solve real-world problems using AI, automation, and robotics.
+# KRISH RAY — Resume-style GitHub README
 
-# 💫 About Me:
-🛠️ I'm currently working on:<br>Building AI-powered QR-based robot behavior using ROS2 for object detection and navigation.<br><br>🤝 I'm looking to collaborate on:<br>Scalable automation agents, intelligent robotics, and AI-driven workflow systems.<br><br>💬 I'm looking for help with:<br>Advanced ROS2 navigation stacks, multi-agent coordination, and reinforcement learning integrations.<br><br>🌱 I'm currently learning:<br>N8N, LangGraph, and building AI Agents-as-a-Service (AaaS) platforms.<br><br>💬 Ask me about:<br>Python, Django, ROS2, Automation Agents, AI Resume Builders, Web Developement or Scaling AI for productivity.<br><br>⚡ Fun fact:<br>I can make robots behave like trained dogs.
-
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/krish_ray_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/krish-ray) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/raykrish23) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:raykrish25@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=krish-rRay23&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=krish-rRay23&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=krish-rRay23&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=krish-rRay23&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+**Indore, India** • +91 9993295268 • [raykrish25@gmail.com](mailto:raykrish25@gmail.com) • [Portfolio](https://krish-rray23.github.io) • [LinkedIn](https://www.linkedin.com/in/krish-ray) • [GitHub](https://github.com/krish-rRay23)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=krish-rRay23&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/raykrish25) 
+## PROFESSIONAL SUMMARY
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+Production-focused Computer Science student and robotics engineer building scalable AI systems, edge inference pipelines, and autonomous robotic platforms. Strong track record designing ROS2-based mobile manipulation solutions, full-stack Python services, and agentic automation frameworks that bridge research and production. Seeking opportunities to deliver high-impact automation and AI products for real-world use.
+
+---
+
+## EDUCATION
+
+**Manipal University, Jaipur** — B.Tech, Computer Science & Engineering (Expected July 2027)
+
+* Cumulative GPA: **8.84/10** • Dean’s List 2024
+* Key coursework: Data Structures & Algorithms, Software Engineering, Operating Systems, Artificial Intelligence
+
+**ACM India Winter School on Edge AI — IISc, Bengaluru** (Dec 2025 – Jan 2026)
+
+* Intensive hands-on training: TinyML, model optimization, quantization, edge accelerators, federated learning, and deployment.
+
+---
+
+## PROFESSIONAL EXPERIENCE
+
+**Hochschule Zittau/Görlitz (IPM)** — Research Intern, Robotics & AI (Zittau, Germany) · Jun 2025 – Aug 2025
+
+* Designed and implemented an end-to-end ROS2 system (LIMO Pro + MyCobot280 + Orbbec camera + YOLO) for autonomous exploration and manipulation.
+* Developed SLAM-based exploration, depth→map transforms, interrupt-safe mission controller, and robust pick-and-place pipelines — achieved **>95%** pick reliability during lab validation.
+* Delivered production-grade integration: TF2 transforms, Nav2 waypoints, AMCL tuning, and voice/telemetry feedback.
+
+**TechSolvo LLP** — Software Developer Intern (Indore, India) · Jun 2024 – Aug 2024
+
+* Built and deployed a Django-based AI Resume Builder with PDF export and PostgreSQL backend.
+* Implemented web-scraping pipelines (Selenium, BeautifulSoup), optimized backend APIs, and reduced data processing latency by **~70%**.
+
+---
+
+## SELECTED PROJECTS
+
+**DogBot — ROS2 Autonomous Mobile Manipulator** · Jul 2025
+
+* Full ROS2 Foxy implementation: SLAM exploration, YOLOv8 detection fused with depth, 3D-to-map conversion, Nav2 waypoint navigation, and MyCobot pick/drop state machine.
+* Features: detection filtering, repeat suppression, pose stamping, mission interruption handling.
+
+**Agentic AI Orchestrator** · Aug 2025
+
+* Architected a multi-agent orchestration platform combining LangGraph, LangChain, CrewAI and Autogen for automated task planning, execution, and monitoring.
+
+**Edge Deepfake Detection System** · Jan 2026
+
+* Designed lightweight TinyCNN student model distilled from LaDeDa, patch-level logits aggregated via mean + top-K pooling; optimized with TensorFlow Lite 8-bit quantization for edge inference.
+
+**AI Resume Builder (Full-Stack)** · Aug 2024
+
+* Django web app with secure auth, responsive UI, PDF resume generation, and automated keyword-optimized scraping for role tailoring.
+
+---
+
+## TECHNICAL SKILLS
+
+**Languages:** Python, C/C++, Java, SQL, JavaScript, HTML/CSS, MATLAB
+
+**Robotics / ML:** ROS2, Nav2, AMCL, TF2, SLAM, YOLOv8/11, OpenCV, PyTorch, TensorFlow, TinyML
+
+**Backend / DevOps:** Django, FastAPI, PostgreSQL, MySQL, Docker, AWS, Git, Linux
+
+**Tools:** VS Code, Postman, Figma, Selenium, BeautifulSoup
+
+---
+
+## CERTIFICATIONS & TRAINING
+
+* Programming for Everybody (Python) — University of Michigan
+* Database Programming with SQL — Oracle
+* C for Everyone: Programming Fundamentals — UC Santa Cruz
+* ROS2 Robotics Developer — Raymond Andrade
+
+---
+
+## AWARDS & RECOGNITION
+
+* Dean’s List — Manipal University (2024)
+* Excellence in Academics — Highest GPA award
+
+---
+
+## OPEN SOURCE & REPOSITORIES
+
+* **DogBot** — ROS2 autonomous manipulation (SLAM + YOLO + MyCobot) — *link to repo*
+* **Edge Deepfake Detection** — Edge-optimized TinyCNN + TFLite pipeline — *link to repo*
+* **AI Resume Builder** — Django + PDF export + scraping — *link to repo*
+
+(Replace *link to repo* with repository URLs to enable direct navigation.)
+
+---
+
+## CONTACT
+
+* Email: [raykrish25@gmail.com](mailto:raykrish25@gmail.com)
+* Portfolio: [https://krish-rray23.github.io](https://krish-rray23.github.io)
+* LinkedIn: [https://www.linkedin.com/in/krish-ray](https://www.linkedin.com/in/krish-ray)
+
+---
+
+## VISUALS & BADGES
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=krish-rRay23\&theme=dark\&hide_border=false\&include_all_commits=false\&count_private=false)
+
+---
+
+*Resume-style README aligned with your CV structure. Replace repository links under “Open Source & Repositories” and confirm any wording changes or additional projects to include.*
