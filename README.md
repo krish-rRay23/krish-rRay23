@@ -1,16 +1,30 @@
-# KRISH RAY 
+<div align="center">
 
-**Indore, India** • +91 9993295268 • [raykrish25@gmail.com](mailto:raykrish25@gmail.com) • [Portfolio](https://krish-rray23.github.io) • [LinkedIn](https://www.linkedin.com/in/krish-ray) • [GitHub](https://github.com/krish-rRay23)
+# KRISH RAY
+
+### 🚀 AI • Robotics • Software Engineering
+
+![Profile Views](https://visitcount.itsvg.in/api?id=krish-rRay23\&icon=2\&color=12)
+
+</div>
+
+<div align="center">
+
+📍 **Indore, India**   |   📞 **+91 9993295268**   |   ✉️ **[raykrish25@gmail.com](mailto:raykrish25@gmail.com)**
+🌐 [Portfolio](https://krish-rray23.github.io)   •   [LinkedIn](https://www.linkedin.com/in/krish-ray)   •   [GitHub](https://github.com/krish-rRay23)
+
+</div>
 
 ---
 
-## PROFESSIONAL SUMMARY
+## ✨ PROFESSIONAL SUMMARY
 
-Production-focused Computer Science student and robotics engineer building scalable AI systems, edge inference pipelines, and autonomous robotic platforms. Strong track record designing ROS2-based mobile manipulation solutions, full-stack Python services, and agentic automation frameworks that bridge research and production. Seeking opportunities to deliver high-impact automation and AI products for real-world use.
+> **Aspiring Software Engineer** with a **strong academic foundation and dual international internship experience**, specializing in **Python, Full-Stack development, Robotics, and AI/ML systems**. Demonstrated capability in **architecting scalable applications**, **building autonomous robotic solutions**, and **deploying production-grade systems**. Skilled at integrating **core software engineering principles with AI-driven automation** to deliver **high-impact, real-world solutions**.
 
 ---
 
-## EDUCATION
+
+## 🎓 EDUCATION
 
 **Manipal University, Jaipur** — B.Tech, Computer Science & Engineering (Expected July 2027)
 
@@ -23,7 +37,7 @@ Production-focused Computer Science student and robotics engineer building scala
 
 ---
 
-## PROFESSIONAL EXPERIENCE
+## 🧑‍💼 PROFESSIONAL EXPERIENCE
 
 **Hochschule Zittau/Görlitz (IPM)** — Research Intern, Robotics & AI (Zittau, Germany) · Jun 2025 – Aug 2025
 
@@ -38,7 +52,7 @@ Production-focused Computer Science student and robotics engineer building scala
 
 ---
 
-## SELECTED PROJECTS
+## 🧠 SELECTED PROJECTS
 
 **DogBot — ROS2 Autonomous Mobile Manipulator** · Jul 2025
 
@@ -59,19 +73,23 @@ Production-focused Computer Science student and robotics engineer building scala
 
 ---
 
-## TECHNICAL SKILLS
+## 🛠 TECHNICAL SKILLS
 
-**Languages:** Python, C/C++, Java, SQL, JavaScript, HTML/CSS, MATLAB
+**Programming**
+`Python` `C/C++` `Java` `SQL` `JavaScript` `HTML` `CSS` `MATLAB`
 
-**Robotics / ML:** ROS2, Nav2, AMCL, TF2, SLAM, YOLOv8/11, OpenCV, PyTorch, TensorFlow, TinyML
+**Robotics & AI**
+`ROS2` `Nav2` `AMCL` `TF2` `SLAM` `YOLOv8/11` `OpenCV` `PyTorch` `TensorFlow` `TinyML`
 
-**Backend / DevOps:** Django, FastAPI, PostgreSQL, MySQL, Docker, AWS, Git, Linux
+**Backend & DevOps**
+`Django` `FastAPI` `PostgreSQL` `MySQL` `Docker` `AWS` `Git` `Linux`
 
-**Tools:** VS Code, Postman, Figma, Selenium, BeautifulSoup
+**Tools**
+`VS Code` `Postman` `Selenium` `BeautifulSoup` `Figma`
 
 ---
 
-## CERTIFICATIONS & TRAINING
+## 📜 CERTIFICATIONS & TRAINING
 
 * Programming for Everybody (Python) — University of Michigan
 * Database Programming with SQL — Oracle
@@ -80,14 +98,14 @@ Production-focused Computer Science student and robotics engineer building scala
 
 ---
 
-## AWARDS & RECOGNITION
+## 🏆 AWARDS & RECOGNITION
 
 * Dean’s List — Manipal University (2024)
 * Excellence in Academics — Highest GPA award
 
 ---
 
-## OPEN SOURCE & REPOSITORIES
+## 🌐 OPEN SOURCE & REPOSITORIES
 
 * **DogBot** — ROS2 autonomous manipulation (SLAM + YOLO + MyCobot) — *link to repo*
 * **Edge Deepfake Detection** — Edge-optimized TinyCNN + TFLite pipeline — *link to repo*
@@ -97,10 +115,16 @@ Production-focused Computer Science student and robotics engineer building scala
 
 ---
 
-## CONTACT
+## 📫 CONTACT
 
 * Email: [raykrish25@gmail.com](mailto:raykrish25@gmail.com)
 * Portfolio: [https://krish-rray23.github.io](https://krish-rray23.github.io)
 * LinkedIn: [https://www.linkedin.com/in/krish-ray](https://www.linkedin.com/in/krish-ray)
 
 ---
+
+### ⚡ TL;DR
+
+**I design robots that explore, think, and act autonomously — and AI systems that scale beyond demos.**
+
+</div>
