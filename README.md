@@ -4,8 +4,6 @@
 
 ### 🚀 AI • Robotics • Software Engineering
 
-![Profile Views](https://visitcount.itsvg.in/api?id=krish-rRay23\&icon=2\&color=12)
-
 </div>
 
 <div align="center">
