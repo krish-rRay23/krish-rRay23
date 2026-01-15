@@ -1,4 +1,4 @@
-# KRISH RAY — Resume-style GitHub README
+# KRISH RAY 
 
 **Indore, India** • +91 9993295268 • [raykrish25@gmail.com](mailto:raykrish25@gmail.com) • [Portfolio](https://krish-rray23.github.io) • [LinkedIn](https://www.linkedin.com/in/krish-ray) • [GitHub](https://github.com/krish-rRay23)
 
@@ -104,11 +104,3 @@ Production-focused Computer Science student and robotics engineer building scala
 * LinkedIn: [https://www.linkedin.com/in/krish-ray](https://www.linkedin.com/in/krish-ray)
 
 ---
-
-## VISUALS & BADGES
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=krish-rRay23\&theme=dark\&hide_border=false\&include_all_commits=false\&count_private=false)
-
----
-
-*Resume-style README aligned with your CV structure. Replace repository links under “Open Source & Repositories” and confirm any wording changes or additional projects to include.*
