@@ -35,7 +35,7 @@ I engineer high-performance systems where software meets silicon and physical sp
 ```
 ### ❯ ./active_threads.log
 
-* **Autonomous Robotics (DAAD Scholar @ Hochschule Zittau/Görlitz, Germany):** Orchestrated a modular ROS2 stack for a mobile manipulator, integrating RGB-D perception with YOLOv11 for a 93% pick-and-place success rate across live hardware trials.
+-> **Autonomous Robotics (DAAD Scholar @ Hochschule Zittau/Görlitz, Germany):** Orchestrated a modular ROS2 stack for a mobile manipulator, integrating RGB-D perception with YOLOv11 for a 93% pick-and-place success rate across live hardware trials.
 * **Hardware-Aware Compilers (Dhristi):** Built a platform tracing MLIR/Triton to GPU execution, reducing LLVM-IR instructions by 55.4% and boosting effective VRAM bandwidth by 48.8%.
 * **Distributed Ledger Systems (DhanSetu):** Architected an offline-first Go/PostgreSQL payment platform hitting 291K TPS with ECIES-encrypted tokens and Redis deduplication.
 * **Conversational AI (Accenture):** Engineered an in-memory Graph RAG network (47,000+ nodes) for a full-stack chatbot, slashing query latency by 68%.
