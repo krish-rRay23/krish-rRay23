@@ -31,8 +31,6 @@ I engineer high-performance systems where software meets silicon and physical sp
 * 🌐 **Conversational AI (Accenture):** Engineered an in-memory Graph RAG network (47,000+ nodes) for a full-stack chatbot, slashing query latency by 68%.
 * ⚙️ **Reinforcement Learning (DoNot Disturb):** Engineered an offline-to-online RL pipeline with capacity-aware controllers to avoid representation collapse during weight perturbation.
 
-<br>
-
 ### ❯ ./system_specs.json
 ```json
 {
