@@ -1,6 +1,6 @@
 <div align="center">
   <!-- ANIMATION: Command-line initialization sequence -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00FF99&center=true&vCenter=true&width=800&lines=%3E_System.init(%22Krish+Ray%22);Robotics+%2B+AI+Researcher;Distributed+Systems+Architect;Hardware-Aware+Compiler+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00FF99&center=true&vCenter=true&width=800&lines=%3E_System.init(%22Krish+Ray%22);Robotics+%2B+AI+Researcher;Distributed+Systems+Architect;Software+Engineer" alt="Typing SVG" />
 </div>
 
 <!-- 
