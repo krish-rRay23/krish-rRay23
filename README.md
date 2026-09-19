@@ -24,18 +24,16 @@
 I engineer high-performance systems where software meets silicon and physical space. Currently completing my B.Tech in Computer Science at Manipal University Jaipur (CGPA: 8.94). My active execution environments span **Agentic AI**, **Compiler Infrastructure**, and **Autonomous Robotics**.
 
 ### ❯ ./active_threads.log
-<details>
-  <summary><b>[EXPAND] High-Priority Executions & Research Architecture</b></summary>
-  <br>
-  
-  * 🤖 **Autonomous Robotics (DAAD Scholar @ Hochschule Zittau/Görlitz, Germany):** Orchestrated a modular ROS2 stack for a mobile manipulator, integrating RGB-D perception with YOLOv11 for a 93% pick-and-place success rate across live hardware trials .
-  * 🧠 **Hardware-Aware Compilers (Dhristi):** Built a platform tracing MLIR/Triton to GPU execution, reducing LLVM-IR instructions by 55.4% and boosting effective VRAM bandwidth by 48.8% .
-  * ⚡ **Distributed Ledger Systems (DhanSetu):** Architected an offline-first Go/PostgreSQL payment platform hitting 291K TPS with ECIES-encrypted tokens and Redis deduplication .
-  * 🌐 **Conversational AI (Accenture):** Engineered an in-memory Graph RAG network (47,000+ nodes) for a full-stack chatbot, slashing query latency by 68% .
-  * ⚙️ **Reinforcement Learning (DoNot Disturb):** Engineered an offline-to-online RL pipeline with capacity-aware controllers to avoid representation collapse during weight perturbation .
 
-</details>
+* 🤖 **Autonomous Robotics (DAAD Scholar @ Hochschule Zittau/Görlitz, Germany):** Orchestrated a modular ROS2 stack for a mobile manipulator, integrating RGB-D perception with YOLOv11 for a 93% pick-and-place success rate across live hardware trials.
 
+* 🧠 **Hardware-Aware Compilers (Dhristi):** Built a platform tracing MLIR/Triton to GPU execution, reducing LLVM-IR instructions by 55.4% and boosting effective VRAM bandwidth by 48.8%.
+
+* ⚡ **Distributed Ledger Systems (DhanSetu):** Architected an offline-first Go/PostgreSQL payment platform hitting 291K TPS with ECIES-encrypted tokens and Redis deduplication.
+
+* 🌐 **Conversational AI (Accenture):** Engineered an in-memory Graph RAG network (47,000+ nodes) for a full-stack chatbot, slashing query latency by 68%.
+
+* ⚙️ **Reinforcement Learning (DoNot Disturb):** Engineered an offline-to-online RL pipeline with capacity-aware controllers to avoid representation collapse during weight perturbation.
 <br>
 
 ### ❯ ./system_specs.json
