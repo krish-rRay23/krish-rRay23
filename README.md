@@ -1,128 +1,57 @@
 <div align="center">
+  <!-- ANIMATION: This generates a dynamic typing effect for your core identities -->
+  <a href="https://github.com/krish-ray">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FF99&center=true&vCenter=true&width=600&lines=Compiler+Engineer;Robotics+%2B+AI+Researcher;Distributed+Systems+Architect;LeetCode+Knight" alt="Typing SVG" />
+  </a>
+</div>
 
-# KRISH RAY
+<!-- 🕵️‍♂️ HIDDEN CONCEPT #1: THE INVISIBLE CHECKPOINT 
+Hello fellow developer. If you're reading this raw markdown, you already know the real work happens in the backend. 
+Feel free to reach out—I'm always open to discussing LLVM, CUDA, or distributed systems! -->
 
-### 🚀 AI • Robotics • Software Engineering
+<div align="center">
+  <a href="mailto:raykrish25@gmail.com"><img src="https://img.shields.io/badge/Email-raykrish25%40gmail.com-blue?style=for-the-badge&logo=gmail"></a>
+  <a href="https://linkedin.com/krish-ray"><img src="https://img.shields.io/badge/LinkedIn-Krish_Ray-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://leetcode.com/Krish_Ray"><img src="https://img.shields.io/badge/LeetCode-Knight-orange?style=for-the-badge&logo=leetcode"></a>
+  <a href="portfolio/krish-os"><img src="https://img.shields.io/badge/Portfolio-krish--os-black?style=for-the-badge&logo=terminal"></a>
+</div>
 
+<br>
+
+### ⚡ The TL;DR
+I build agentic systems, write hardware-aware compilers, and orchestrate autonomous robotics. I am currently pursuing my B.Tech in Computer Science and Engineering at Manipal University Jaipur, maintaining a CGPA of 8.94[cite: 1]. 
+
+* 🌍 **Previously:** Architected a full-stack conversational AI chatbot as a Software Engineer Intern at Accenture, and orchestrated a modular ROS2 stack for an autonomous mobile manipulator as a Research Intern at Hochschule Zittau/Görlitz in Germany[cite: 1].
+* 🏆 **Milestones:** Top 2.26% LeetCode Knight, fully funded DAAD Scholar, Dell Ideathon 2026 Winner, and published patent holder for technology developed under HandSpeak.ai[cite: 1].
+* 🧠 **Tech Stack:** C++, Go, Python, PyTorch, Triton, CUDA, ROS2, and Graph RAG[cite: 1].
+
+---
+
+### 🛠️ Architecture & Engineering
+
+<!-- HIDDEN CONCEPT #2: INTERACTIVE TOGGLE 
+Instead of hitting recruiters with a wall of text, this forces interaction to reveal your heavy-hitting projects. -->
+<details>
+  <summary><b>🔍 Click to reveal the engine room (Featured Repositories)</b></summary>
+  <br>
+
+| Project | Tech Stack | Telemetry |
+| :--- | :--- | :--- |
+| **Dhristi** | `C++` `LLVM/MLIR` `Triton` `CUDA` | Developed a hardware-aware ML compiler platform tracing MLIR/Triton code to GPU execution, reducing LLVM-IR instructions by 55.4%[cite: 1]. |
+| **DoNot Disturb** | `PyTorch` `MuJoCo` `IQL` `RL` | Built a reproducible offline-to-online RL pipeline with capacity-aware controllers to avoid representation collapse[cite: 1]. |
+| **DhanSetu** | `Go` `Redis Streams` `PostgreSQL` | Architected an offline-first distributed payment platform with ECIES-encrypted tokens, reaching 291K TPS with 1.19ms local intent latency[cite: 1]. |
+
+</details>
+
+---
+
+### 📈 GitHub Telemetry
+<!-- ANIMATION: Real-time, dynamically updated stats cards with a dark, modern theme. (Replace 'YOUR_USERNAME' if your GitHub handle differs from 'krish-ray') -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=krish-ray&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krish-ray&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" alt="Top Languages" />
 </div>
 
 <div align="center">
-
-📍 **Indore, India**   |   📞 **+91 9993295268**   |   ✉️ **[raykrish25@gmail.com](mailto:raykrish25@gmail.com)**
-🌐 [Portfolio](https://krish-rray23.github.io)   •   [LinkedIn](https://www.linkedin.com/in/krish-ray)   •   [GitHub](https://github.com/krish-rRay23)
-
-</div>
-
----
-
-## ✨ PROFESSIONAL SUMMARY
-
-> **Aspiring Software Engineer** with a **strong academic foundation and dual international internship experience**, specializing in **Python, Full-Stack development, Robotics, and AI/ML systems**. Demonstrated capability in **architecting scalable applications**, **building autonomous robotic solutions**, and **deploying production-grade systems**. Skilled at integrating **core software engineering principles with AI-driven automation** to deliver **high-impact, real-world solutions**.
-
----
-
-
-## 🎓 EDUCATION
-
-**Manipal University, Jaipur** — B.Tech, Computer Science & Engineering (Expected July 2027)
-
-* Cumulative GPA: **8.84/10** • Dean’s List 2024
-* Key coursework: Data Structures & Algorithms, Software Engineering, Operating Systems, Artificial Intelligence
-
-**ACM India Winter School on Edge AI — IISc, Bengaluru** (Dec 2025 – Jan 2026)
-
-* Intensive hands-on training: TinyML, model optimization, quantization, edge accelerators, federated learning, and deployment.
-
----
-
-## 🧑‍💼 PROFESSIONAL EXPERIENCE
-
-**Hochschule Zittau/Görlitz (IPM)** — Research Intern, Robotics & AI (Zittau, Germany) · Jun 2025 – Aug 2025
-
-* Designed and implemented an end-to-end ROS2 system (LIMO Pro + MyCobot280 + Orbbec camera + YOLO) for autonomous exploration and manipulation.
-* Developed SLAM-based exploration, depth→map transforms, interrupt-safe mission controller, and robust pick-and-place pipelines — achieved **>95%** pick reliability during lab validation.
-* Delivered production-grade integration: TF2 transforms, Nav2 waypoints, AMCL tuning, and voice/telemetry feedback.
-
-**TechSolvo LLP** — Software Developer Intern (Indore, India) · Jun 2024 – Aug 2024
-
-* Built and deployed a Django-based AI Resume Builder with PDF export and PostgreSQL backend.
-* Implemented web-scraping pipelines (Selenium, BeautifulSoup), optimized backend APIs, and reduced data processing latency by **~70%**.
-
----
-
-## 🧠 SELECTED PROJECTS
-
-**DogBot — ROS2 Autonomous Mobile Manipulator** · Jul 2025
-
-* Full ROS2 Foxy implementation: SLAM exploration, YOLOv8 detection fused with depth, 3D-to-map conversion, Nav2 waypoint navigation, and MyCobot pick/drop state machine.
-* Features: detection filtering, repeat suppression, pose stamping, mission interruption handling.
-
-**Agentic AI Orchestrator** · Aug 2025
-
-* Architected a multi-agent orchestration platform combining LangGraph, LangChain, CrewAI and Autogen for automated task planning, execution, and monitoring.
-
-**Edge Deepfake Detection System** · Jan 2026
-
-* Designed lightweight TinyCNN student model distilled from LaDeDa, patch-level logits aggregated via mean + top-K pooling; optimized with TensorFlow Lite 8-bit quantization for edge inference.
-
-**AI Resume Builder (Full-Stack)** · Aug 2024
-
-* Django web app with secure auth, responsive UI, PDF resume generation, and automated keyword-optimized scraping for role tailoring.
-
----
-
-## 🛠 TECHNICAL SKILLS
-
-**Programming**
-`Python` `C/C++` `Java` `SQL` `JavaScript` `HTML` `CSS` `MATLAB`
-
-**Robotics & AI**
-`ROS2` `Nav2` `AMCL` `TF2` `SLAM` `YOLOv8/11` `OpenCV` `PyTorch` `TensorFlow` `TinyML`
-
-**Backend & DevOps**
-`Django` `FastAPI` `PostgreSQL` `MySQL` `Docker` `AWS` `Git` `Linux`
-
-**Tools**
-`VS Code` `Postman` `Selenium` `BeautifulSoup` `Figma`
-
----
-
-## 📜 CERTIFICATIONS & TRAINING
-
-* Programming for Everybody (Python) — University of Michigan
-* Database Programming with SQL — Oracle
-* C for Everyone: Programming Fundamentals — UC Santa Cruz
-* ROS2 Robotics Developer — Raymond Andrade
-
----
-
-## 🏆 AWARDS & RECOGNITION
-
-* Dean’s List — Manipal University (2024)
-* Excellence in Academics — Highest GPA award
-
----
-
-## 🌐 OPEN SOURCE & REPOSITORIES
-
-* **DogBot** — ROS2 autonomous manipulation (SLAM + YOLO + MyCobot) — *link to repo*
-* **Edge Deepfake Detection** — Edge-optimized TinyCNN + TFLite pipeline — *link to repo*
-* **AI Resume Builder** — Django + PDF export + scraping — *link to repo*
-
-(Replace *link to repo* with repository URLs to enable direct navigation.)
-
----
-
-## 📫 CONTACT
-
-* Email: [raykrish25@gmail.com](mailto:raykrish25@gmail.com)
-* Portfolio: [https://krish-rray23.github.io](https://krish-rray23.github.io)
-* LinkedIn: [https://www.linkedin.com/in/krish-ray](https://www.linkedin.com/in/krish-ray)
-
----
-
-### ⚡ TL;DR
-
-**I design robots that explore, think, and act autonomously — and AI systems that scale beyond demos.**
-
+  <sub>For the complete chronological logbook, please refer to <b>Krish_s_Resume.pdf</b>.</sub>
 </div>
