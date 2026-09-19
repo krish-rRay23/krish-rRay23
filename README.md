@@ -14,7 +14,7 @@
 
 <div align="center">
   <a href="mailto:raykrish25@gmail.com"><img src="https://img.shields.io/badge/Connect-raykrish25%40gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=00FF99&labelColor=0D1117&border=00FF99"></a>
-  <a href="https://linkedin.com/krish-ray"><img src="https://img.shields.io/badge/Network-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FF99&labelColor=0D1117&border=00FF99"></a>
+  <a href="https://www.linkedin.com/in/krish-ray"><img src="https://img.shields.io/badge/Network-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FF99&labelColor=0D1117&border=00FF99"></a>
   <a href="https://leetcode.com/Krish_Ray"><img src="https://img.shields.io/badge/Rank-LeetCode_Knight-0D1117?style=for-the-badge&logo=leetcode&logoColor=00FF99&labelColor=0D1117&border=00FF99"></a>
 </div>
 
