@@ -50,15 +50,13 @@ I engineer high-performance systems where software meets silicon and physical sp
 
   <h3>❯ ./contribution_activity.log</h3>
 
-  <picture>
-    <source media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/krish-rRay23/krish-rRay23/output/github-snake-dark.svg">
+  <img
+    src="https://raw.githubusercontent.com/krish-rRay23/krish-rRay23/output/github-snake.svg"
+    alt="GitHub Contribution Snake Animation"
+    width="100%"
+  />
 
-    <source media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/krish-rRay23/krish-rRay23/output/github-snake.svg">
+</div>
 
-    <img alt="GitHub Contribution Snake"
-      src="https://raw.githubusercontent.com/krish-rRay23/krish-rRay23/output/github-snake.svg">
-  </picture>
 
 </div>
