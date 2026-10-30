@@ -40,10 +40,8 @@ I engineer high-performance systems where software meets silicon and physical sp
 
 - **Experience:** Accenture, India (Software Engineering) · Zittau Görlitz University of Applied Sciences, Germany (Robotics Research,  <br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;DAAD Scholar) · VigiSolvo, India (Backend Engineering).
-
 - **Projects:** Pramaan (Financial Security & AI) · Dhristi (ML Compilers & GPU Optimization) · DhanSetu (Distributed Payments) ·<br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;DoNotDisturb (Reinforcement Learning) · NirnayaX (Agentic AI & RAG) · HandSpeak.ai (Edge AI & Computer Vision).
-
 - **Achievements:** Amazon ML Summer School (Top 2.2%) · TVS Credit E.P.I.C. 8.0 (Jury Special Award) ·<br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dell Ideathon Winner · DAAD Scholar · Published Indian Patent · LeetCode Knight.
   
