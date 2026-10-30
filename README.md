@@ -45,25 +45,7 @@ I engineer high-performance systems where software meets silicon and physical sp
 * **Reinforcement Learning (Do Not Disturb):** Engineered an offline-to-online RL pipeline with capacity-aware controllers to avoid representation collapse during weight perturbation.
 
 <br>
-
 <div align="center">
-
-  <h3>❯ ./competitive_programming.sh</h3>
-
-  <a href="https://leetcode.com/Krish_Ray/">
-    <img src="https://leetcard.jacoblin.cool/Krish_Ray?theme=dark&font=Fira+Code&ext=contest"
-         alt="Krish Ray's LeetCode statistics and contest rating"
-         width="500" />
-  </a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-  <h3>❯ ./contribution_arcade.log</h3>
-
   <picture>
     <source media="(prefers-color-scheme: dark)"
       srcset="https://raw.githubusercontent.com/krish-rRay23/krish-rRay23/output/pacman-contribution-graph-dark.svg">
@@ -74,5 +56,13 @@ I engineer high-performance systems where software meets silicon and physical sp
       alt="Pac-Man contribution graph animation"
       width="100%" />
   </picture>
+</div>
 
+<br>
+<div align="center">
+  <a href="https://leetcode.com/Krish_Ray/">
+    <img src="https://leetcard.jacoblin.cool/Krish_Ray?theme=dark&font=Fira+Code&ext=contest"
+         alt="Krish Ray's LeetCode statistics and contest rating"
+         width="500" />
+  </a>
 </div>
