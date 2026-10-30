@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="132" viewBox="0 0 1000 132" role="img" aria-labelledby="title desc">
+  <title id="title">Krish Ray LeetCode statistics</title>
+  <desc id="desc">609 problems solved, Knight level, contest rating 2026, global rank 141738. Easy 185, Medium 322, Hard 102.</desc>
+  <defs>
+    <linearGradient id="accent" x1="0" x2="1">
+      <stop offset="0" stop-color="#00ff99"/>
+      <stop offset="1" stop-color="#22c55e"/>
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="998" height="130" rx="12" fill="#0d1117" stroke="#263238"/>
+  <rect x="1" y="1" width="4" height="130" rx="2" fill="url(#accent)"/>
+  <g font-family="Fira Code, ui-monospace, monospace">
+    <text x="27" y="29" fill="#8b949e" font-size="11" letter-spacing="1.5">LEETCODE / PROFILE</text>
+    <text x="27" y="83" fill="#f0f6fc" font-size="43" font-weight="700">609</text>
+    <text x="116" y="81" fill="#8b949e" font-size="13">SOLVED</text>
+    <rect x="27" y="101" width="125" height="3" rx="2" fill="#263238"/>
+    <rect x="27" y="101" width="82" height="3" rx="2" fill="url(#accent)"/>
+
+    <line x1="185" y1="20" x2="185" y2="112" stroke="#263238"/>
+    <text x="210" y="35" fill="#8b949e" font-size="11" letter-spacing="1">DIFFICULTY BREAKDOWN</text>
+
+    <text x="210" y="67" fill="#3fb950" font-size="13" font-weight="600">EASY</text>
+    <text x="210" y="91" fill="#f0f6fc" font-size="16" font-weight="600">185</text>
+    <text x="247" y="91" fill="#8b949e" font-size="11">/ 974</text>
+    <rect x="210" y="101" width="125" height="4" rx="2" fill="#263238"/>
+    <rect x="210" y="101" width="24" height="4" rx="2" fill="#3fb950"/>
+
+    <text x="365" y="67" fill="#e3b341" font-size="13" font-weight="600">MEDIUM</text>
+    <text x="365" y="91" fill="#f0f6fc" font-size="16" font-weight="600">322</text>
+    <text x="402" y="91" fill="#8b949e" font-size="11">/ 2136</text>
+    <rect x="365" y="101" width="145" height="4" rx="2" fill="#263238"/>
+    <rect x="365" y="101" width="22" height="4" rx="2" fill="#e3b341"/>
+
+    <text x="540" y="67" fill="#f85149" font-size="13" font-weight="600">HARD</text>
+    <text x="540" y="91" fill="#f0f6fc" font-size="16" font-weight="600">102</text>
+    <text x="577" y="91" fill="#8b949e" font-size="11">/ 986</text>
+    <rect x="540" y="101" width="125" height="4" rx="2" fill="#263238"/>
+    <rect x="540" y="101" width="13" height="4" rx="2" fill="#f85149"/>
+
+    <line x1="700" y1="20" x2="700" y2="112" stroke="#263238"/>
+    <text x="728" y="35" fill="#8b949e" font-size="11" letter-spacing="1">CONTEST RATING</text>
+    <text x="728" y="76" fill="#f0f6fc" font-size="27" font-weight="700">2,026</text>
+    <text x="728" y="99" fill="#00ff99" font-size="12">KNIGHT LEVEL</text>
+
+    <line x1="865" y1="20" x2="865" y2="112" stroke="#263238"/>
+    <text x="889" y="35" fill="#8b949e" font-size="11" letter-spacing="1">GLOBAL RANK</text>
+    <text x="889" y="76" fill="#f0f6fc" font-size="23" font-weight="700">#141,738</text>
+    <text x="889" y="99" fill="#8b949e" font-size="11">TOP 2.3%</text>
+  </g>
+  <circle cx="969" cy="25" r="3" fill="#00ff99"/>
+</svg>
