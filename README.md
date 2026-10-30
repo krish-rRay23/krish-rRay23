@@ -44,12 +44,7 @@ I engineer high-performance systems where software meets silicon and physical sp
 * **Conversational AI (Accenture):** Engineered an in-memory Graph RAG network (47,000+ nodes) for a full-stack chatbot, slashing query latency by 68%.
 * **Reinforcement Learning (DoNot Disturb):** Engineered an offline-to-online RL pipeline with capacity-aware controllers to avoid representation collapse during weight perturbation.
 
-<br>
-
 <div align="center">
-
-  <h3>❯ ./contribution_activity.log</h3>
-
   <img
     src="https://raw.githubusercontent.com/krish-rRay23/krish-rRay23/output/github-snake.svg"
     alt="GitHub Contribution Snake Animation"
