@@ -50,13 +50,11 @@ I engineer high-performance systems where software meets silicon and physical sp
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/krish-rRay23/krish-rRay23/output/pacman-contribution-graph-dark.svg?v=20261031">
-
+      srcset="https://raw.githubusercontent.com/krish-rRay23/krish-rRay23/output/pacman-contribution-graph-dark.svg">
     <source media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/krish-rRay23/krish-rRay23/output/pacman-contribution-graph.svg?v=20261031">
-
+      srcset="https://raw.githubusercontent.com/krish-rRay23/krish-rRay23/output/pacman-contribution-graph.svg">
     <img
-      src="https://raw.githubusercontent.com/krish-rRay23/krish-rRay23/output/pacman-contribution-graph.svg?v=20261031"
+      src="https://raw.githubusercontent.com/krish-rRay23/krish-rRay23/output/pacman-contribution-graph.svg"
       alt="Pac-Man contribution graph animation"
       width="100%" />
   </picture>
