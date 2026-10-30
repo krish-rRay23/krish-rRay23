@@ -43,3 +43,22 @@ I engineer high-performance systems where software meets silicon and physical sp
 * **Distributed Ledger Systems (DhanSetu):** Architected an offline-first Go/PostgreSQL payment platform hitting 291K TPS with ECIES-encrypted tokens and Redis deduplication.
 * **Conversational AI (Accenture):** Engineered an in-memory Graph RAG network (47,000+ nodes) for a full-stack chatbot, slashing query latency by 68%.
 * **Reinforcement Learning (DoNot Disturb):** Engineered an offline-to-online RL pipeline with capacity-aware controllers to avoid representation collapse during weight perturbation.
+
+<br>
+
+<div align="center">
+
+  <h3>❯ ./contribution_activity.log</h3>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/krish-rRay23/krish-rRay23/output/github-snake-dark.svg">
+
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/krish-rRay23/krish-rRay23/output/github-snake.svg">
+
+    <img alt="GitHub Contribution Snake"
+      src="https://raw.githubusercontent.com/krish-rRay23/krish-rRay23/output/github-snake.svg">
+  </picture>
+
+</div>
