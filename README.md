@@ -65,11 +65,10 @@ I engineer high-performance systems where software meets silicon and physical sp
   <h3>❯ ./competitive_programming.sh</h3>
 
   <a href="https://leetcode.com/Krish_Ray/">
-    <img src="https://img.shields.io/badge/LeetCode-609_Solved-00CC88?style=flat-square&logo=leetcode&logoColor=white" />
-    <img src="https://img.shields.io/badge/Easy-185-2EA44F?style=flat-square" />
-    <img src="https://img.shields.io/badge/Medium-322-F0AD4E?style=flat-square" />
-    <img src="https://img.shields.io/badge/Hard-102-E05D5D?style=flat-square" />
-    <img src="https://img.shields.io/badge/Rank-%23141738-30363D?style=flat-square" />
+    <img
+      src="https://raw.githubusercontent.com/krish-rRay23/krish-rRay23/main/assets/leetcode-stats.svg"
+      alt="LeetCode statistics: 609 solved, Knight level, contest rating 2026, global rank 141738"
+      width="100%" />
   </a>
 
 </div>
