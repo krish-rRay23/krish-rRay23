@@ -45,6 +45,8 @@ I engineer high-performance systems where software meets silicon and physical sp
 - **Achievements:** Amazon ML Summer School (Top 2.2%) · TVS Credit E.P.I.C. 8.0 (Jury Special Award) ·<br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dell Ideathon Winner · DAAD Scholar · Published Indian Patent · LeetCode Knight.
   
+<!-- Pac-Man contribution graph is generated automatically by .github/workflows/snake.yml. -->
+
 ### ❯ ./contribution_log.sh
 
 <div align="center">
