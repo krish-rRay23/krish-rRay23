@@ -59,10 +59,16 @@ I engineer high-performance systems where software meets silicon and physical sp
 </div>
 
 <br>
+
 <div align="center">
+
+  <h3>❯ ./competitive_programming.sh</h3>
+
   <a href="https://leetcode.com/Krish_Ray/">
-    <img src="https://leetcard.jacoblin.cool/Krish_Ray?theme=dark&font=Fira+Code&ext=contest"
-         alt="Krish Ray's LeetCode statistics and contest rating"
-         width="500" />
+    <img
+      src="https://leetcard.jacoblin.cool/Krish_Ray?theme=dark&font=Fira+Code&animation=false"
+      alt="Krish Ray's LeetCode statistics"
+      width="100%" />
   </a>
+
 </div>
