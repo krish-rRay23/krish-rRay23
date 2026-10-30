@@ -26,7 +26,6 @@
 ### ❯ ./about_me.sh
 I engineer high-performance systems where software meets silicon and physical space. Currently completing my B.Tech in Computer Science at Manipal University Jaipur (CGPA: 8.94). My active execution environments span **Agentic AI**, **Compiler Infrastructure**, and **Autonomous Robotics**.
 
-
 ### ❯ ./system_specs.json
 ```json
 {
@@ -36,22 +35,44 @@ I engineer high-performance systems where software meets silicon and physical sp
   "accolades": ["Dell Ideathon Winner", "Top 2.26% LeetCode Knight", "Amazon ML Summer School"]
 }
 ```
+
 ### ❯ ./active_threads.log
 
 * **Autonomous Robotics (DAAD Scholar @ Hochschule Zittau/Görlitz, Germany):** Orchestrated a modular ROS2 stack for a mobile manipulator, integrating RGB-D perception with YOLOv11 for a 93% pick-and-place success rate across live hardware trials.
 * **Hardware-Aware Compilers (Dhristi):** Built a platform tracing MLIR/Triton to GPU execution, reducing LLVM-IR instructions by 55.4% and boosting effective VRAM bandwidth by 48.8%.
 * **Distributed Ledger Systems (DhanSetu):** Architected an offline-first Go/PostgreSQL payment platform hitting 291K TPS with ECIES-encrypted tokens and Redis deduplication.
 * **Conversational AI (Accenture):** Engineered an in-memory Graph RAG network (47,000+ nodes) for a full-stack chatbot, slashing query latency by 68%.
-* **Reinforcement Learning (DoNot Disturb):** Engineered an offline-to-online RL pipeline with capacity-aware controllers to avoid representation collapse during weight perturbation.
+* **Reinforcement Learning (Do Not Disturb):** Engineered an offline-to-online RL pipeline with capacity-aware controllers to avoid representation collapse during weight perturbation.
+
+<br>
 
 <div align="center">
-  <img
-    src="https://raw.githubusercontent.com/krish-rRay23/krish-rRay23/output/github-snake.svg"
-    alt="GitHub Contribution Snake Animation"
-    width="100%"
-  />
+
+  <h3>❯ ./competitive_programming.sh</h3>
+
+  <a href="https://leetcode.com/Krish_Ray/">
+    <img src="https://leetcard.jacoblin.cool/Krish_Ray?theme=dark&font=Fira+Code&ext=contest"
+         alt="Krish Ray's LeetCode statistics and contest rating"
+         width="500" />
+  </a>
 
 </div>
 
+<br>
+
+<div align="center">
+
+  <h3>❯ ./contribution_arcade.log</h3>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/krish-rRay23/krish-rRay23/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/krish-rRay23/krish-rRay23/output/pacman-contribution-graph.svg">
+    <img
+      src="https://raw.githubusercontent.com/krish-rRay23/krish-rRay23/output/pacman-contribution-graph.svg"
+      alt="Pac-Man contribution graph animation"
+      width="100%" />
+  </picture>
 
 </div>
