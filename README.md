@@ -44,8 +44,9 @@ I engineer high-performance systems where software meets silicon and physical sp
 * **Conversational AI (Accenture):** Engineered an in-memory Graph RAG network (47,000+ nodes) for a full-stack chatbot, slashing query latency by 68%.
 * **Reinforcement Learning (Do Not Disturb):** Engineered an offline-to-online RL pipeline with capacity-aware controllers to avoid representation collapse during weight perturbation.
 
-<div align="center">
 ### ❯ ./contribution_log.sh
+
+<div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)"
       srcset="https://raw.githubusercontent.com/krish-rRay23/krish-rRay23/output/pacman-contribution-graph-dark.svg">
@@ -58,13 +59,13 @@ I engineer high-performance systems where software meets silicon and physical sp
   </picture>
 </div>
 
-<div align="center">
 ### ❯ ./competitive_programming.sh
+
+<div align="center">
   <a href="https://leetcode.com/Krish_Ray/">
     <img
       src="https://raw.githubusercontent.com/krish-rRay23/krish-rRay23/main/assets/leetcode-stats.svg"
       alt="LeetCode statistics: 609 solved, Knight level, contest rating 2026, global rank 141738"
       width="100%" />
   </a>
-
 </div>
